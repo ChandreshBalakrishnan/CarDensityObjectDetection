@@ -130,4 +130,4 @@ rm intersection_outputs/<video_key>/_DONE.marker
 
 ## License
 
-MIT (or update to whatever license applies to your use case).
+MIT
